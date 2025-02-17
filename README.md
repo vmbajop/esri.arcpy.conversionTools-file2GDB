@@ -16,10 +16,8 @@ Los servicios han sido publicados sin problema en ArcGIS Enterprise/ArcGIS Serve
 2. Eliminar valores por defecto
 3. Control de los valores del sistema de coordenadas mediante combos de selección
 
-=======
-La siguiente información se refiere a la publicación de estas herramientas como servicios. Está en inglés
-porque así lo solicitaba el cliente
-=======
+*La siguiente información se refiere a la publicación de estas herramientas como servicios. Está en inglés
+porque así lo solicitaba el cliente*
 
 # Services for Uploading Files
 
