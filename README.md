@@ -1,6 +1,25 @@
 # esri.arcpy.conversionTools-file2GDB
+## Funcionalidad
 Herramientas de conversión de formatos GIS de ESRI con ArcPy
+Convierte los siguientes formatos:
+1. **Shapefile comprimido en ZI**
+2. **CAD en formato DWG**
+3. **KMZ o KML**
+El formato de salida es **File GDB**
+
+## Versión
+Está desarrollado con ArcPy en ArcGIS Pro 3.3
+Los servicios han sido publicados sin problema en ArcGIS Enterprise/ArcGIS Server 11.2
+## Mejoras pendientes
+1. Nombres de las capas de salida
+2. Eliminar valores por defecto
+3. Control de los valores del sistema de coordenadas mediante combos de selección
+
 =======
+La siguiente información se refiere a la publicación de estas herramientas como servicios. Está en inglés
+porque así lo solicitaba el cliente
+=======
+
 # Services for Uploading Files
 
 ## Overview  
